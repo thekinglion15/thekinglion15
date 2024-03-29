@@ -1,4 +1,7 @@
 <h1 align="center">The King Lion</h1>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4E16AQFy58tvDhsPMQ/profile-displaybackgroundimage-shrink_350_1400/0/1683413063392?e=1717027200&v=beta&t=fnW7_qfLqgCpC0MWOlL2a3f4zA8E50bg8LYzwNbKslM" alt="The King Lion" width="75%" />
+</p>
 
 <!-- Languages -->
 <h2 align="center">Languages</h2>
