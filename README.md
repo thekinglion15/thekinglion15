@@ -149,5 +149,5 @@
 <!-- Stats card -->
 <h2></h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinglion15&show_icons=true&theme=dark&locale=en&langs_count=10" alt="thekinglion15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinglion15&show_icons=true&theme=dark&locale=en&langs_count=8" alt="thekinglion15" />
 </p>
